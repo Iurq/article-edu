@@ -1,0 +1,4 @@
+https://article-edu.herokuapp.com/
+https://article-edu.herokuapp.com/about
+https://article-edu.herokuapp.com/join
+https://article-edu.herokuapp.com/
